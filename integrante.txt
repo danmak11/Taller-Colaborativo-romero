@@ -1,2 +1,5 @@
-daniel
+nombre: daniel romero 
 hoy subimos github
+nombre: johan alvarez
+trabajo con ramas y pull request 
+
